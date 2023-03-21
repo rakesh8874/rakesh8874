@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🧑‍💻 I’m a Full Stack Developer
-- 🌱 familiar With Front End & Backend Techonologies.
+- 🌱 Familiar With Front End & Backend Techonologies.
 - 👯 Always Eager To Learn New Technologies.
 - 🤔 I’m looking for Opportunities in The Field Of Techonologies. 
 - 💬 Ask me about: Front End Technologies, Backend Technologies, MySQL/MongoDB Databases. 
